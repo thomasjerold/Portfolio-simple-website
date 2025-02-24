@@ -2,7 +2,7 @@
 
 # My Portfolio Website
 
-Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a [Your Profession/Field, e.g., Web Developer, Graphic Designer, etc.]. It is built using HTML and basic CSS, providing a clean and responsive design to highlight my work.
+Welcome to my portfolio website! This project showcases my skills, projects, and experiences as a web development. It is built using HTML and basic CSS, providing a clean and responsive design to highlight my work.
 
 ## Features
 
