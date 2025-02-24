@@ -1,0 +1,129 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+ .container{
+ 
+ padding: 60px;
+ 
+ }
+ 
+ .section-one{
+      background: black;
+      color: aqua;
+      padding: 30px;
+ 
+ }
+ .section-one__contact{
+ 
+    background: white;
+    color:green;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-top: 5px;
+    display: inline-block;
+ 
+ }
+  .section-one__contact:hover{
+    background-color: red;
+    color: aliceblue;
+  }
+       
+ .section-one__Heading{
+    font-size: 40px;
+ 
+ }
+ .section-one__Role{
+    font-size: 30px;
+ }
+ .section-two,.section-Three,.section-Four,.section-Five{
+    margin-top: 20px;
+    
+ }
+ .section-two_Desc,.section-ThreeDesc,.section-FourDesc,.section-Five_Desc{
+    margin-top: 10px;
+    
+ }      
+ .section-Five{
+    background-color: black;
+    color: aqua;
+    padding: 20px;
+ }
+ .section-Five a{
+    color: antiquewhite;
+ }
+
+
+
+ .section-Three li,.section-Four li{
+    list-style: none;
+ }
+ 
+ .section-Three{
+    background-color: brown;
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 20px;
+    vertical-align: top;
+   
+ }
+  .section-Four{
+ 
+    background-color:orangered;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    width:180px ;
+    height: 180px;
+    vertical-align: top;
+  }
+ 
+ .Contact-Form{
+    margin-top: 10px;
+     
+ }
+
+ .Contact-Form__text,.Contact-Form__number,.Contact-Form__address,.Contact-Form__email,.Contact-Form__textarea,.Contact-Form__submit{
+         
+    margin-top: 10px;
+ }
+
+
+ .Contact-Form__text,.Contact-Form__number,.Contact-Form__address,.Contact-Form__email{
+
+    padding: 10px;
+    border: none;
+    border-bottom: solid black;
+ }
+
+ .Contact-Form__textarea{
+    padding: 10px;
+    border: none;
+    border: solid black;
+ }
+
+ .Contact-Form__submit{
+
+    padding: 10px;
+    border-bottom: 20px;
+    border-top: 20px;
+    border-left: 10px;
+    border-right: 10px;
+    background-color: black;
+    color: aqua;
+    border: none;
+ }
+
+ 
